@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="down_btn">#EBDCE1</color>
+    <color name="ori_btn">#FFF0F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">keyboard</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.Bridge">
+        
+        
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

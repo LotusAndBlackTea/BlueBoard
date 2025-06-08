@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app"
+    name=":app"
+    type="APP"
+    maven="My Application:app:"
+    agpVersion="8.3.2"
+    buildFolder="build"
+    bootClassPath="D:\ProGram64\AndroidStudioMAX\platforms\android-34\android.jar;D:\ProGram64\AndroidStudioMAX\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

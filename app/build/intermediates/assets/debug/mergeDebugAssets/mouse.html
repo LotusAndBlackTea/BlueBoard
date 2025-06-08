@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>My Mouse</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    <!-- 复用现有的 JS 文件 -->
+    <script src="./js/svgstr_bright.js" defer></script>
+    <script src="./js/svgstr_dark.js" defer></script>
+    <script src="./js/modal.js" defer></script>
+    <script src="./js/viewport.js" defer></script>
+    <script src="./js/changeFile.js" defer></script>
+    <script src="./js/touchbar.js" defer></script>
+    <script src="./js/fetchweather.js" defer></script>
+    
+    <!-- 新增鼠标专用 JS 文件 -->
+    <script src="./js/mouse.js" defer></script>
+    
+    <!-- 样式文件 -->
+    <link href="./css/animations.css" rel="stylesheet" />
+    <link href="./css/style.css" rel="stylesheet" type="text/css" />
+    <link href="./css/viewport.css" rel="stylesheet" />
+    <link href="./css/modal.css" rel="stylesheet" />
+    <link href="./css/touchbar.css" rel="stylesheet" />
+    <link href="./css/fonts.css" rel="stylesheet" />
+    <link href="./css/mouse.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- 顶部控制栏 -->
+    <div id="main">
+        <img src="./img/settings.svg" class="settings" onclick="showCheck()">
+        <img src="./img/bluetooth.svg" class="Init" onclick="SETBluetooth()">
+        <img src="./img/sun.svg" class="sunANDmoon" onclick="changepic()">
+    </div>
+
+    <!-- TouchBar -->
+    <div id="touchbar" class="touchbar">
+        <div id="touchbar_in" class="touchbar_in">
+            <img src="./img/settings.svg" class="settings_intouchbar" onclick="showCheck()">
+            <img src="./img/bluetooth.svg" class="Init_intouchbar" onclick="SETBluetooth_forbar()">
+            <img src="./img/sun.svg" class="sunANDmoon_intouchbar" onclick="changepic()">
+            <span class="nicewords">My Mouse 🖱️</span>
+        </div>
+    </div>
+
+    <!-- 鼠标触控区域 -->
+    <div id="MousePad" class="MousePad">
+        <!-- 鼠标移动区域 -->
+        <div id="mouseArea" class="mouseArea"></div>
+        
+        <!-- 鼠标按键区域 -->
+        <div class="mouseButtons">
+            <div id="leftClick" class="mouseButton leftClick">左键</div>
+            <div id="rightClick" class="mouseButton rightClick">右键</div>
+            <div id="middleClick" class="mouseButton middleClick">中键</div>
+        </div>
+
+        <!-- 滚轮区域 -->
+        <div id="scrollArea" class="scrollArea">
+            <div class="scrollUp">↑</div>
+            <div class="scrollDown">↓</div>
+        </div>
+    </div>
+
+    <!-- 底部信息显示 -->
+    <div class="info" id="info">
+        <p>Waiting informations...</p>
+    </div>
+</body>
+</html>

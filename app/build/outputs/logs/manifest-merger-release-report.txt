@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\762fee72decdb213ce31f449b64abdb0\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\赵\.gradle\caches\transforms-3\15b65e1816df94315bb3fa76f690da50\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\赵\.gradle\caches\transforms-3\cef5c0c76757807f1b856a344e6b5965\transformed\ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\d15cd05b64432db8c7fbc792c663ba6c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\c880200ff2b0ebad03ba35c6d23daf0a\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\赵\.gradle\caches\transforms-3\975b36d6ba51765c39c9642b2f50f76c\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\赵\.gradle\caches\transforms-3\046b6518d2f7bddce7f6de4c72cb0fd7\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\赵\.gradle\caches\transforms-3\98715ed82c107843126bfe7bc5026f06\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\赵\.gradle\caches\transforms-3\0dc7f880d27ee67d42ab51cb8e8858ef\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\ac4376cb6e62cd06abe77e091ab55dc8\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\db57986f78e45c6541ff3195a69d0c9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\6b66febac80fbc65d3bacc8676c6246f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\7c862862e35da0a0a4ec91ba73470e88\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\3982e0dd148bcc409acdaed3d3cdab80\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\4ce284db00a6b4de37b4a12328f2334b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\ddc033b8c1ae5ccffd553aa8dab4878f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\cd0b45d17bbea6c7f3ac18264745e771\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\23b7ce6bdaeed97bfa8bb7ee68313222\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\c15baffd44bc1c4a81b5954f815fcf8a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\1810576b76bb00f251bdb92c4dafc6c6\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9690364a51dea100b1808a91ce53505a\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\57dd2970c4a16c32f270b0734af7fe4c\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\39fc2d9b347d783be31e7e1949f48a31\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\bbf3a8d2c911c675bcceed683fdc140b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\45c017362f0249f9482c5a5f06cbf2e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9d4031fadcac1164aad0c0186ba0f3fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\e32177c2e7608147617eaa29952e8da6\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\2e59861634b3da51f09163877875a85a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\赵\.gradle\caches\transforms-3\11202cc1a22ff94a27c1a22e147ac116\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\27e6f4cd0eab8357edb4efc15ef8e759\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\bec3632627962622e0b3203bedf21448\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\赵\.gradle\caches\transforms-3\bd110d88747e7499359d47768b166de6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\f212d59fa331bd8f4d1544a54b4993fd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\赵\.gradle\caches\transforms-3\7aeab08209ac3df4605b73deb065edd7\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\dd77c6490dbf86016f72c627c188081e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\4a9fbeae528cabd06bbb7061dc2628eb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\ecd4aa672f0d48d814ae767f5b92350c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\d3f264cf16896b5d0560d3a8c061f43b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\赵\.gradle\caches\transforms-3\ce1d8542707a9d98557b78b54e9e41cb\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:10:5-85
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:10:22-82
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:14:5-15:40
+	tools:ignore
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:15:9-37
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:16:5-17:40
+	tools:ignore
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:17:9-37
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:16:22-77
+uses-feature#android.hardware.bluetooth
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:5-87
+	android:required
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:61-84
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:19-60
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:5-90
+	android:required
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:64-87
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:19-63
+application
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:20:5-44:19
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:20:5-44:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\762fee72decdb213ce31f449b64abdb0\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\762fee72decdb213ce31f449b64abdb0\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\赵\.gradle\caches\transforms-3\15b65e1816df94315bb3fa76f690da50\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\赵\.gradle\caches\transforms-3\15b65e1816df94315bb3fa76f690da50\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\bec3632627962622e0b3203bedf21448\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\bec3632627962622e0b3203bedf21448\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:25:9-41
+	android:fullBackupContent
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:23:9-54
+	android:roundIcon
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:26:9-38
+	tools:targetApi
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:30:9-29
+	android:icon
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:24:9-33
+	android:allowBackup
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:28:9-51
+	android:dataExtractionRules
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:22:9-65
+	android:usesCleartextTraffic
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:29:9-44
+activity#com.example.myapplication.MainActivity
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:33:13-50
+	android:exported
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:41:9-43:71
+	android:screenOrientation
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:42:13-50
+	android:theme
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:41:19-66
+uses-sdk
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\762fee72decdb213ce31f449b64abdb0\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\762fee72decdb213ce31f449b64abdb0\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\赵\.gradle\caches\transforms-3\15b65e1816df94315bb3fa76f690da50\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\赵\.gradle\caches\transforms-3\15b65e1816df94315bb3fa76f690da50\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\赵\.gradle\caches\transforms-3\cef5c0c76757807f1b856a344e6b5965\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\赵\.gradle\caches\transforms-3\cef5c0c76757807f1b856a344e6b5965\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\d15cd05b64432db8c7fbc792c663ba6c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\d15cd05b64432db8c7fbc792c663ba6c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\c880200ff2b0ebad03ba35c6d23daf0a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\赵\.gradle\caches\transforms-3\c880200ff2b0ebad03ba35c6d23daf0a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\赵\.gradle\caches\transforms-3\975b36d6ba51765c39c9642b2f50f76c\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\赵\.gradle\caches\transforms-3\975b36d6ba51765c39c9642b2f50f76c\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\赵\.gradle\caches\transforms-3\046b6518d2f7bddce7f6de4c72cb0fd7\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\赵\.gradle\caches\transforms-3\046b6518d2f7bddce7f6de4c72cb0fd7\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\赵\.gradle\caches\transforms-3\98715ed82c107843126bfe7bc5026f06\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\赵\.gradle\caches\transforms-3\98715ed82c107843126bfe7bc5026f06\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\赵\.gradle\caches\transforms-3\0dc7f880d27ee67d42ab51cb8e8858ef\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\赵\.gradle\caches\transforms-3\0dc7f880d27ee67d42ab51cb8e8858ef\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\ac4376cb6e62cd06abe77e091ab55dc8\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\ac4376cb6e62cd06abe77e091ab55dc8\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\db57986f78e45c6541ff3195a69d0c9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\db57986f78e45c6541ff3195a69d0c9c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\6b66febac80fbc65d3bacc8676c6246f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\6b66febac80fbc65d3bacc8676c6246f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\7c862862e35da0a0a4ec91ba73470e88\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\7c862862e35da0a0a4ec91ba73470e88\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\3982e0dd148bcc409acdaed3d3cdab80\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\3982e0dd148bcc409acdaed3d3cdab80\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\4ce284db00a6b4de37b4a12328f2334b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\4ce284db00a6b4de37b4a12328f2334b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\ddc033b8c1ae5ccffd553aa8dab4878f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\ddc033b8c1ae5ccffd553aa8dab4878f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\cd0b45d17bbea6c7f3ac18264745e771\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\cd0b45d17bbea6c7f3ac18264745e771\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\23b7ce6bdaeed97bfa8bb7ee68313222\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\23b7ce6bdaeed97bfa8bb7ee68313222\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\c15baffd44bc1c4a81b5954f815fcf8a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\c15baffd44bc1c4a81b5954f815fcf8a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\1810576b76bb00f251bdb92c4dafc6c6\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\1810576b76bb00f251bdb92c4dafc6c6\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9690364a51dea100b1808a91ce53505a\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9690364a51dea100b1808a91ce53505a\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\57dd2970c4a16c32f270b0734af7fe4c\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\57dd2970c4a16c32f270b0734af7fe4c\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\39fc2d9b347d783be31e7e1949f48a31\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\39fc2d9b347d783be31e7e1949f48a31\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\bbf3a8d2c911c675bcceed683fdc140b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\赵\.gradle\caches\transforms-3\bbf3a8d2c911c675bcceed683fdc140b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\45c017362f0249f9482c5a5f06cbf2e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\45c017362f0249f9482c5a5f06cbf2e8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9d4031fadcac1164aad0c0186ba0f3fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\9d4031fadcac1164aad0c0186ba0f3fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\e32177c2e7608147617eaa29952e8da6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\e32177c2e7608147617eaa29952e8da6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\2e59861634b3da51f09163877875a85a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\2e59861634b3da51f09163877875a85a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\赵\.gradle\caches\transforms-3\11202cc1a22ff94a27c1a22e147ac116\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\赵\.gradle\caches\transforms-3\11202cc1a22ff94a27c1a22e147ac116\transformed\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\27e6f4cd0eab8357edb4efc15ef8e759\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\27e6f4cd0eab8357edb4efc15ef8e759\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\bec3632627962622e0b3203bedf21448\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\bec3632627962622e0b3203bedf21448\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\赵\.gradle\caches\transforms-3\bd110d88747e7499359d47768b166de6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\赵\.gradle\caches\transforms-3\bd110d88747e7499359d47768b166de6\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\f212d59fa331bd8f4d1544a54b4993fd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\赵\.gradle\caches\transforms-3\f212d59fa331bd8f4d1544a54b4993fd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\赵\.gradle\caches\transforms-3\7aeab08209ac3df4605b73deb065edd7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\赵\.gradle\caches\transforms-3\7aeab08209ac3df4605b73deb065edd7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\dd77c6490dbf86016f72c627c188081e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\dd77c6490dbf86016f72c627c188081e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\4a9fbeae528cabd06bbb7061dc2628eb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\4a9fbeae528cabd06bbb7061dc2628eb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\ecd4aa672f0d48d814ae767f5b92350c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\ecd4aa672f0d48d814ae767f5b92350c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\d3f264cf16896b5d0560d3a8c061f43b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\赵\.gradle\caches\transforms-3\d3f264cf16896b5d0560d3a8c061f43b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\赵\.gradle\caches\transforms-3\ce1d8542707a9d98557b78b54e9e41cb\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\赵\.gradle\caches\transforms-3\ce1d8542707a9d98557b78b54e9e41cb\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\赵\.gradle\caches\transforms-3\e923b2dd935b32f3f2d8a426579f0aee\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

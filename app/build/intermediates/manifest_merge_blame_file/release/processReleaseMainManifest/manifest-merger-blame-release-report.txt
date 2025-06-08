@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:5:5-68
+12-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:5:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:6:5-74
+13-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:6:22-71
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+14-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:7:5-78
+14-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:7:22-75
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:8:5-79
+15-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:9:5-81
+16-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+17-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:10:5-85
+17-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:10:22-82
+18    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+18-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:11:5-72
+18-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:11:22-70
+19    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+19-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:12:5-76
+19-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:12:22-73
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:13:5-66
+20-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:13:22-63
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:14:5-15:40
+21-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:14:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:16:5-17:40
+22-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:16:22-77
+23
+24    <uses-feature
+24-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:5-87
+25        android:name="android.hardware.bluetooth"
+25-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:19-60
+26        android:required="true" />
+26-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:18:61-84
+27    <uses-feature
+27-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:5-90
+28        android:name="android.hardware.bluetooth_le"
+28-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:19-63
+29        android:required="true" />
+29-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:19:64-87
+30
+31    <permission
+31-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+32        android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+32-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+33        android:protectionLevel="signature" />
+33-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+34
+35    <uses-permission android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+35-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+35-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+36
+37    <application
+37-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:20:5-44:19
+38        android:allowBackup="true"
+38-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:21:9-35
+39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+39-->[androidx.core:core:1.9.0] C:\Users\赵\.gradle\caches\transforms-3\f92b5744a880cd5003234bd6da8b9ed6\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+40        android:dataExtractionRules="@xml/data_extraction_rules"
+40-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:22:9-65
+41        android:extractNativeLibs="false"
+42        android:fullBackupContent="@xml/backup_rules"
+42-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:23:9-54
+43        android:icon="@mipmap/s"
+43-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:24:9-33
+44        android:label="@string/app_name"
+44-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:25:9-41
+45        android:roundIcon="@mipmap/s"
+45-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:26:9-38
+46        android:supportsRtl="true"
+46-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:27:9-35
+47        android:theme="@style/Theme.MyApplication"
+47-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:28:9-51
+48        android:usesCleartextTraffic="true" >
+48-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:29:9-44
+49        <activity
+49-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:31:9-40:20
+50            android:name="com.example.myapplication.MainActivity"
+50-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:32:13-41
+51            android:exported="true"
+51-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:34:13-36
+52            android:screenOrientation="landscape" >
+52-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:33:13-50
+53            <intent-filter>
+53-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:35:13-39:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:36:17-69
+54-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:36:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:38:17-77
+56-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:38:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:41:9-43:71
+60            android:name="com.yalantis.ucrop.UCropActivity"
+60-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:41:19-66
+61            android:screenOrientation="landscape"
+61-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:42:13-50
+62            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+62-->D:\codeCache\keyboardOFbluetooth-master\keyboardOFbluetooth-master\app\src\main\AndroidManifest.xml:43:13-69
+63
+64        <provider
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+65            android:name="androidx.startup.InitializationProvider"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+66            android:authorities="com.example.myapplication.androidx-startup"
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+67            android:exported="false" >
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+68            <meta-data
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+70                android:value="androidx.startup" />
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\赵\.gradle\caches\transforms-3\b7d7b9947fb6f26689d354566f1252f2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+73                android:value="androidx.startup" />
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\赵\.gradle\caches\transforms-3\843e609a3a1b75dccbfb052029fec9a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+74        </provider>
+75    </application>
+76
+77</manifest>
