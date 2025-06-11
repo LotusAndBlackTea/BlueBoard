@@ -1,6 +1,3 @@
-// 废弃
-// 2024/03/23 22:03
-
 function getPixel() {
     let Imgfs = document.querySelector("img.Img");
     let canvas = document.createElement('canvas');
